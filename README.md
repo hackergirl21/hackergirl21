@@ -1,42 +1,59 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hey there! I'm Biruktawit
 
-###
+**Software Engineering Student** | **Debre Birhan University** | **3rd Year**
 
-<p align="left">My name is hackergirl and I'm a SE student, from debre birhan</p>
+---
 
-###
+## 🧑‍💻 About Me
 
-<h2 align="left">About me</h2>
+- 🎓 **Education**: 3rd Year BSc in Software Engineering
+- 📍 **Location**: Debre Birhan, Ethiopia 🇪🇹
+- 💡 **Passion**: Building solutions for African challenges
+- 🎯 **Goal**: To become a Full-Stack Developer
 
-###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+---
 
-###
+## 🛠️ Tech Stack
 
-<h2 align="left">I code with</h2>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![Biruktawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackergirl&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackergirl&layout=compact&theme=radical)
+
 </div>
 
-###
+---
 
+## 📫 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Me-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:zemedkunbiruktawit@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/@Lablink1)
 
+---
+
+## 🌟 Quote
+
+> "What you do with a sincere heart will succeed for you."
+
+---
+
+<p align="center">
+  <i>Thanks for visiting! Have an awesome day! 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hackergirl&color=blue" alt="Profile Views">
+</p>
