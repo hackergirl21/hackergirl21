@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Biruktawit
+# 👋 Hey there! I'm Bruktawit
 
 **Software Engineering Student** | **Debre Birhan University** | **3rd Year**
 
@@ -19,22 +19,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  
-![Biruktawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackergirl&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackergirl&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
